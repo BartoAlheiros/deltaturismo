@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentários sobre 	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="//bartoalheiros.github.io/deltaturismo/comments/feed" rel="self" type="application/rss+xml" />
+	<link>//bartoalheiros.github.io/deltaturismo</link>
 	<description></description>
 	<lastBuildDate>Sun, 27 Jun 2021 03:31:27 +0000</lastBuildDate>
 	<sy:updatePeriod>
